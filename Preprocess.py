@@ -1,13 +1,13 @@
-from Get_Face_Kun import *
-from Get_Face_Lin import *
-from Get_Face_Mao import *
-from Get_Face_Nadia import *
-from Th_Get_Face_Ma import *
-from Get_Face_girl import *
-from Get_Face_juleir import *
-from Get_Face_Ou import *
-from Get_Face_Youngjun import *
-from Get_Face_ch import *
+from Get_Face_1 import *
+from Get_Face_2 import *
+from Get_Face_3 import *
+from Get_Face_4 import *
+from Get_Face_5 import *
+from Get_Face_6 import *
+from Get_Face_7 import *
+from Get_Face_8 import *
+from Get_Face_9 import *
+from Get_Face_10 import *
 from PIL import Image
 import cv2
 base_w = 100
